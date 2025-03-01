@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "cauldron"
+  site-url: "https://bhargavchippada.github.io/cauldron"
+  description: "Musings"
+  repo-branch: main
+  repo-url: "https://github.com/bhargavchippada/cauldron"
